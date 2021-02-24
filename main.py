@@ -1,7 +1,9 @@
 import matplotlib.pyplot as plt
 
-n = float(input("Enter n for the function y = mx^n:"))
-m = float(input("Enter m:"))
+n = float(input("Enter n for the function y = mx^n + c: "))
+m = float(input("Enter m: "))
+c = float(input("Enter c: "))
+
 i = -100.1
 arrx = []
 arry = []
