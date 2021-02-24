@@ -1,5 +1,5 @@
 # Graph-plotter
-A simply graph plotter for functions of the form y = m x^n where m and n are any rational number.
+A simply graph plotter for functions of the form y = m x^n + c where m, n and c are any rational number.
 For the domain from -100 to +100.
 To run:
   1.Install matplot lib.
